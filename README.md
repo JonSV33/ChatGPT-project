@@ -1,1 +1,1 @@
-# ChatGPT-project
+# ChatGPT.github.io
